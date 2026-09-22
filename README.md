@@ -10,6 +10,8 @@ Live repo: https://github.com/Livino13/ai-content-detector
 
 Try it here: **https://ai-content-detector-seven.vercel.app/** (deployed on Vercel, Gemini judge enabled).
 
+![Dashboard screenshot](public/dashboard.png)
+
 ## Features
 
 - Paste-text analysis + PDF (`.pdf`) and Word (`.docx`) upload and parsing
