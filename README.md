@@ -1,8 +1,14 @@
 # AI Content Detector
 
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://ai-content-detector-seven.vercel.app/)
+
 Next.js app that classifies text as **AI-Generated**, **Human-Written**, or **Uncertain / Mixed**, with sentence-level heatmaps, confidence breakdowns, and stylometric insights. Supports pasted text plus PDF / Word uploads.
 
 Live repo: https://github.com/Livino13/ai-content-detector
+
+## Live Demo
+
+Try it here: **https://ai-content-detector-seven.vercel.app/** (deployed on Vercel, Gemini judge enabled).
 
 ## Features
 
